@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @badgerlocke
 - 👀 I’m interested in books, plants, bass guitar, cats, gaming, and coding.
-- 🌱 I’m currently learning HTML, JavaScript, and Python
+- 🌱 I’m currently learning full stack web development.
 - 💞️ I’m looking to collaborate on <tbd>
 - 📫 How to reach me <tbd>
 
